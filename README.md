@@ -1,4 +1,3 @@
-# JAPSDC2026
 R and Stata syntax supporting "Does Self-Directed Care Reduce Unmet Needs of Older Adults: Quasi-Experimental Evidence from China".
 
 ## Files and running order
